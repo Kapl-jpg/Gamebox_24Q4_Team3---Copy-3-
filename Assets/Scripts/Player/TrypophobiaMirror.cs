@@ -43,6 +43,10 @@ namespace Player
                     }
                 }
             }
+            else
+            {
+                _lookTimer = 1f;
+            }
         }
     }
 }

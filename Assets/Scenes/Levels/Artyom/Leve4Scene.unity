@@ -6357,7 +6357,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77bbf3ff804845e41b99f63840b500c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxLookTimer: 10
+  maxLookTimer: 6
   skins:
   - {fileID: 1714023728}
   - {fileID: 1454906397}
